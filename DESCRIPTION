@@ -1,0 +1,12 @@
+Package: simplecalc
+Type: Package
+Title: A Very Simple Calculator
+Version: 0.1.0
+Author: Hon Hwang <hon.hwang@student.uts.edu.au>
+Maintainer: Hon Hwang <hon.hwang@student.uts.edu.au>
+Description: A simple calculator program that performs four basic
+    calculations: addition, subtraction, multiplication and division.
+License: GPL-2 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
