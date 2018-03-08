@@ -21,7 +21,7 @@ add <- function(a, b) {
 #' @export
 subtract <- function(a, b) {
     # Does not match the documentation!!!
-    a - b
+    b - a
 }
 
 #' Multiplies two numbers
